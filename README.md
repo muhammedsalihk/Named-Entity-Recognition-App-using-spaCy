@@ -8,8 +8,12 @@ The webapp has been built using streamlit and can be run using the command
 ```
 streamlit run myapp.py
 ```
-<div style="text-align: "center"> Screenshots of the webapp interface </div>
+**Screenshots of the webapp interface**
+
+Shot 1 - On startup
 
 ![App 1](https://github.com/muhammedsalihk/Named-Entity-Recognition-App-using-spaCy/blob/master/Images/App%201.png)
+
+Shot 2 - Displaying Results
 
 ![App 2](https://github.com/muhammedsalihk/Named-Entity-Recognition-App-using-spaCy/blob/master/Images/App%202.png)
