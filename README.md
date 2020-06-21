@@ -8,4 +8,4 @@ The webapp has been built using streamlit and can be run using the command
 ```
 streamlit run myapp.py
 ```
-<div style="text-align: center"> Screenshots of the webapp interface </div>
+<div style="text-align: "center"> Screenshots of the webapp interface </div>
